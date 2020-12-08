@@ -1,0 +1,23 @@
+{
+  "name": "restful_api",
+  "version": "1.0.0",
+  "description": "This is a RESTFUL API created by Andres Haro",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server"
+  },
+  "keywords": [
+    "RESTFUl_API",
+    "MONGODB",
+    "EXPRESS"
+  ],
+  "author": "Andres Haro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
